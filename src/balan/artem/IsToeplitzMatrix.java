@@ -1,4 +1,4 @@
-package com.company;
+package balan.artem;
 
 public class IsToeplitzMatrix {
 
